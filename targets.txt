@@ -1,0 +1,4 @@
+# Tulis semua URL target di sini, satu URL per baris
+https://www.facebook.com/duniahiburan.id.1
+https://www.facebook.com/ganjarpranowo
+https://www.facebook.com/groups/diskon.id
