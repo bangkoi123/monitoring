@@ -1,0 +1,6 @@
+# Daftar library yang dibutuhkan oleh proyek
+selenium==4.22.0
+beautifulsoup4==4.12.3
+streamlit==1.36.0
+pandas==2.2.2
+mysql-connector-python==8.4.0
